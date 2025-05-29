@@ -8,3 +8,8 @@ El entrenamiento funcional, es un medio de entrenamiento basado en la realizaci�
 - Aumenta la flexibilidad
 - Apoya la coordinación muscular
 
+## Instrucciones
+- Ubícate en un espacio amplio y cómodo
+- Asesorate con un profesor o videotutorial
+- Realiza movimientos lentos 
+
