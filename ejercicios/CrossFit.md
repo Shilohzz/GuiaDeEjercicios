@@ -8,3 +8,8 @@ es un sistema de entrenamiento que combina ejercicios de fuerza, cardio y gimná
 - Mejora la concentración
 - Reduce el estrés
 
+## Instrucciones
+- Enfocarse en técnica antes que peso/carga.
+- Mantener la alimentación correcta.
+- Usar correctamente los equipos/máquinas.
+
