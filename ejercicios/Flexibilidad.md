@@ -12,3 +12,8 @@ Es la capacidad de las articulaciones del cuerpo humano para llevar a cabo movim
 - Calentar muy bien las articulaciones
 - Comenzar a mejorar con posiciones de Yoga
 - Priorizar una muy buena técnica
+
+## Consejos
+- Realizar movimientos muy lentos
+- Mantener retenida la respiración durante el ejercicio
+- Usar guantes en caso de tener manos resbalosas (Evita lesiones)
