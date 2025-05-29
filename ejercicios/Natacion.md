@@ -8,3 +8,7 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 - Mejora la flexibilidad
 - Reduce el riesgo de lesiones
 
+## Intrucciones
+- Aprender a flotar
+- Dominar estilos de nado
+- Moverse bien debajo del agua
