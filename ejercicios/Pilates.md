@@ -8,3 +8,7 @@ Una clase de pilates es una meditación dirigida por el movimiento: el ritmo de 
 - Concentración en cada movimiento
 - Centralización y alineación
 
+## Beneficios 
+- Mejora la fuerza del core
+- Mejora la concentración
+- Mejora el equilibrio
