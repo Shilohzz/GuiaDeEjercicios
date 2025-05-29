@@ -12,3 +12,10 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 - Aprender a flotar
 - Dominar estilos de nado
 - Moverse bien debajo del agua
+
+## Consejos
+- Practicar bastante apnea
+- Realizar calentamiento previo a la carrera
+- Utilizar chanclas por fuera de la piscina
+
+
