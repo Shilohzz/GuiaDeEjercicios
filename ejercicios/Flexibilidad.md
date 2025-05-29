@@ -7,3 +7,8 @@ Es la capacidad de las articulaciones del cuerpo humano para llevar a cabo movim
 - Aumenta el flujo sanguíneo
 - Mayor capacidad de flexionar extremidades
 - Mejora la coordinación muscular
+
+## Instrucciones
+- Calentar muy bien las articulaciones
+- Comenzar a mejorar con posiciones de Yoga
+- Priorizar una muy buena técnica
