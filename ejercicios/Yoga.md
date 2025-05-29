@@ -13,3 +13,7 @@
 - Realiza ejercicios de respiración
 - Cierra los ojos para concentrarte (opcional)
 
+## Consejos 
+- Usa una superficie suave para recostarte
+- Coloca música o sonidos ambientales suaves
+- Ambientaliza tu entorno de Yoga, dando una sensación de tranquilidad.
