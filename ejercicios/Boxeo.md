@@ -13,3 +13,8 @@ Es un deporte de combate en el que dos personas, llamadas boxeadores o pugilista
 2. No golpear a un oponente caído.
 3. No agarrar o empujar al oponente.
 
+## Consejos 
+- Mantener la cabeza alta.
+- Mantener los ojos en el oponente.
+- Nunca bajar la guardia.
+
