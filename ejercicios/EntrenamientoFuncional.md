@@ -13,3 +13,7 @@ El entrenamiento funcional, es un medio de entrenamiento basado en la realizaci�
 - Asesorate con un profesor o videotutorial
 - Realiza movimientos lentos 
 
+## Consejos 
+- Usar equipos o máquinas ligeras
+- Realizar calentamiento previo
+- Estirar los músculos
