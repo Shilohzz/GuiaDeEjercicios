@@ -13,3 +13,7 @@ es un sistema de entrenamiento que combina ejercicios de fuerza, cardio y gimná
 - Mantener la alimentación correcta.
 - Usar correctamente los equipos/máquinas.
 
+## Consejos 
+- Buena hidratación.
+- Llevar un trapo para el sudor.
+- Buen sueño previo a los entrenamientos.
