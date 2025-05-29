@@ -13,3 +13,6 @@ Es una actividad física que aumenta la frecuencia cardíaca y la respiración d
 2. Realiza la actividad (correr, nadar, andar en bicicleta) durante al menos 30 minutos.
 3. Termina con un enfriamiento y estiramientos.
 
+## Consejos
+- Mantén una hidratación adecuada al ejercicio.
+- Escoge un ritmo que puedas mantener, no excedas.
