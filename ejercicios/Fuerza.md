@@ -13,3 +13,7 @@ Los ejercicios de fuerza son entrenamientos musculares en los que se utilizan di
 - Hacer aumento gradualmente del peso
 - Estar bien hidratado
 
+## Consejos
+- Realiza las repeticiones con equilibrio del peso
+- Duerme bien
+- Lleva una buena dieta
