@@ -11,3 +11,7 @@ Es un deporte simétrico que se practica con un elemento mecánico (bicicleta) q
 - Respetar las señales.
 - Señalizar maniobras.
 
+## Consejos
+- Alimentación ligera pero nutritiva.
+- Mantener la calma.
+- Realizar estiramientos antes de la carrera.
