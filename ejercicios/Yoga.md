@@ -8,3 +8,8 @@
 - Reduce estrés
 - Mejora la gestión de emociones
 
+## Instrucciones
+- Realiza estiramientos
+- Realiza ejercicios de respiración
+- Cierra los ojos para concentrarte (opcional)
+
