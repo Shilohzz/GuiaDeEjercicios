@@ -8,3 +8,8 @@ Es un deporte de combate en el que dos personas, llamadas boxeadores o pugilista
 - Fortalece los músculos
 - Libera endorfinas
 
+## Instrucciones 
+1. No golpear por debajo de la cintura.
+2. No golpear a un oponente caído.
+3. No agarrar o empujar al oponente.
+
