@@ -12,3 +12,9 @@ Una clase de pilates es una meditación dirigida por el movimiento: el ritmo de 
 - Mejora la fuerza del core
 - Mejora la concentración
 - Mejora el equilibrio
+
+## Consejos
+- Encuentra un instructor capacitado 
+- Comienza con lo básico
+- Practica regularmente
+- Escucha y siente tu cuerpo
